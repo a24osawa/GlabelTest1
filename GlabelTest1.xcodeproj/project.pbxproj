@@ -14,6 +14,7 @@
 		3768F9EE28537A4F001FACB1 /* GlabelTest1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3768F9ED28537A4F001FACB1 /* GlabelTest1Tests.swift */; };
 		3768F9F828537A4F001FACB1 /* GlabelTest1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3768F9F728537A4F001FACB1 /* GlabelTest1UITests.swift */; };
 		3768F9FA28537A4F001FACB1 /* GlabelTest1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3768F9F928537A4F001FACB1 /* GlabelTest1UITestsLaunchTests.swift */; };
+		3768FA072853808F001FACB1 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3768FA062853808F001FACB1 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3768F9F328537A4F001FACB1 /* GlabelTest1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GlabelTest1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3768F9F728537A4F001FACB1 /* GlabelTest1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlabelTest1UITests.swift; sourceTree = "<group>"; };
 		3768F9F928537A4F001FACB1 /* GlabelTest1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlabelTest1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3768FA062853808F001FACB1 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3768F9DC28537A4C001FACB1 /* GlabelTest1App.swift */,
 				3768F9DE28537A4C001FACB1 /* ContentView.swift */,
+				3768FA062853808F001FACB1 /* WebView.swift */,
 				3768F9E028537A4F001FACB1 /* Assets.xcassets */,
 				3768F9E228537A4F001FACB1 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3768FA072853808F001FACB1 /* WebView.swift in Sources */,
 				3768F9DF28537A4C001FACB1 /* ContentView.swift in Sources */,
 				3768F9DD28537A4C001FACB1 /* GlabelTest1App.swift in Sources */,
 			);
