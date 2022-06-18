@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        WebView(urlString: "https://glabel-by-repainters-dev.blogspot.com/")
+        WebView(urlString: "https://glabel-by-repainters-test.blogspot.com/")
     }
 }
 
